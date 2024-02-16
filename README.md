@@ -1,5 +1,7 @@
 # HW8
 
+## Non-Programming Assignment
+
 ### Q1. To which values initialize parameters (W, b) in a neural networks and why?  
 
 #### Answer:  
